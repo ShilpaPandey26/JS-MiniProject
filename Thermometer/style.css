@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(26, 26, 57);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-left: 20rem;
+}
+
+.para {
+  max-width: 700px;
+  color: white;
+  font-size: 8rem;
+}
+
+#temp {
+   
+  position: relative;
+  top:6%;
+  left:1%;
+  
+}
+.fa{
+    color: white;
+   font-size: 9rem;
+    font-weight: none; 
+}
